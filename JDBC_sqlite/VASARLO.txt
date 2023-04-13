@@ -1,0 +1,9 @@
+VID	VNEV	VAROS	UHSZAM	IRSZAM	
+1	Tóth Zoltán	Miskolc	Zoltán u. 16.	3525	
+2	Tóth Pista	Miskolc	József Attila u. 9.	3525	
+3	Kacsó Attila	Budapest	Felszabadítók u. 10.	1019	
+4	Veres Zsombor	Szirma	Berekkert u. 6.	3525	
+5	Halász András	Gyõr	Petõfi Sándor u. 16.	9012	
+6	Kertész Attila	Budapest	Magda u. 10.	1012	
+7	Varga Lilla	Miskolc	Ilona u. 10.	3512	
+8	Kertész Attila	Budapest	Alma u. 10.	1012	

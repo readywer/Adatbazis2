@@ -1,0 +1,9 @@
+SZID	DARAB	NEV	
+1	10	Almagép	
+2	8	 HP ProDesk 400 G7	
+3	18	Alma Mac Mini	
+4	4	Dell Optiplex 5040	
+5	5	 HP ProDesk 500 G7	
+6	9	Saját gép	
+7	11	Alma Mac Mini 2	
+8	21	Dell Optiplex 5050	
