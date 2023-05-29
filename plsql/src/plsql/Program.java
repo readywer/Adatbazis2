@@ -19,13 +19,13 @@ public class Program {
 		SM("Menü");
 		SM("================================================================");
 		SM("0. Kilépés ");
-		SM("1. Beszúrás ");
-		SM("2. Törlés ");
-		SM("3. Kiírás Tx_be ");
-		SM("4. Listázás egy mezõ szerint");
-		SM("5. Listázás több mezõ szerint");
-		SM("6. A vásárló által vásárolt gépek listája");
-		SM("7. A vásárló nevének lekérdezése Bank név és telefonszám alapján");
+		SM("1. Random Feltölt ");
+		SM("2. Fileból feltölt ");
+		SM("3. Kézi adatfelvitel");
+		SM("4. Adatok törlése");
+		SM("5. Módosítás");
+		SM("6. Adott napi esetszám");
+		SM("7. Idõtartam esetszám");
 		String ms = ReadData("Add meg a választott menü számát: ");
 		int m = -1;
 		try {
